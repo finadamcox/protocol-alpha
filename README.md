@@ -1,6 +1,4 @@
-# Protocol Alpha
-Alpha version of the Photon Finance Decentralized Stablecoin protocol. Photon is a modular, risk and profit separated decentralized stablecoin.
-
+# Introduction
 ## Setup and Building
 To start the project, clone the repo to your local machine using the following CLI commands:
 
